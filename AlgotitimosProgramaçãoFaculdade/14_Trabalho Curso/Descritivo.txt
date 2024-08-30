@@ -1,0 +1,1 @@
+Tem um sensor e assim que ele identificar se tem a caixa ele vai pega-la e aguardar um dos 2 botões serem pressionados selecionado o local de destino deles.

@@ -1,0 +1,18 @@
+Base:
+Posição Pegar Caixa: 40
+Posição Colocar caixa 1: 0
+Posição Colocar caixa 2: 85 
+
+Garra:
+Aberto: 30
+Fechado: 105
+Pegar Caixa: 80
+
+Profundidade:
+Recuo: 60
+Avanço: 120
+
+Altura:
+Max: 130
+Min: 40
+
